@@ -1,0 +1,17 @@
+
+$ git init
+
+$ git config user.name fbnwd
+
+$ git config user.email fbngdw@gmail.com
+
+$ git config user.password token
+
+$ git remote add origin https://github.com/fbnwd/prueba
+
+$ git add .
+
+$ git commit -m probando
+
+$ git push origin master
+
